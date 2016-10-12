@@ -1,0 +1,43 @@
+<cds>
+  <cd>
+    <artist>Nirvana</artist>
+    <title>Nevermind</title>
+    <releasedate>1991</releasedate>
+  </cd>
+  <cd>
+    <artist>Nirvana</artist>
+    <title>In Utero</title>
+    <releasedate>1993</releasedate>
+  </cd>
+  <cd>
+    <artist>Alice In Chains</artist>
+    <title>Facelift</title>
+    <releasedate>1990</releasedate>
+  </cd>
+  <cd>
+    <artist>Alice In Chains</artist>
+    <title>Dirt</title>
+    <releasedate>1992</releasedate>
+  </cd>
+  <cd>
+    <artist>Alice In Chains</artist>
+    <title>Unplugged</title>
+    <releasedate>1996</releasedate>
+  </cd>
+  <cd>
+    <artist>Tool</artist>
+    <title>Undertow</title>
+    <releasedate>1993</releasedate>
+  </cd>
+  <cd>
+    <artist>Tool</artist>
+    <title>Aenima</title>
+    <releasedate>1996</releasedate>
+  </cd>
+  <cd>
+    <artist>Pearl Jam</artist>
+    <title>Ten</title>
+    <releasedate>1992</releasedate>
+  </cd>
+
+</cds>

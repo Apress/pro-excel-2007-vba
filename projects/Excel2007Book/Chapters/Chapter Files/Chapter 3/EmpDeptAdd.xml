@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<EmpDepts>
+	<EmpDept EmployeeID="291" FirstName="Guy" MiddleName="R" LastName="Bert" JobTitle="Production Technician - WC60" Department="Production" GroupName="Manufacturing" StartDate="1996-07-31T00:00:00.000"/>
+	<EmpDept EmployeeID="292" FirstName="Kevin" MiddleName="F" LastName="Greene" JobTitle="Marketing Assistant" Department="Marketing" GroupName="Sales and Marketing" StartDate="1997-02-26T00:00:00.000"/>
+	<EmpDept EmployeeID="293" FirstName="Roberto" LastName="Tambur" JobTitle="Engineering Manager" Department="Engineering" GroupName="Research and Development" StartDate="1997-12-12T00:00:00.000"/>
+	<EmpDept EmployeeID="294" FirstName="Rob" LastName="Edwards" JobTitle="Senior Tool Designer" Department="Tool Design" GroupName="Research and Development" StartDate="2000-07-01T00:00:00.000"/>
+	<EmpDept EmployeeID="295" FirstName="Terry" MiddleName="B" LastName="D'Amico" JobTitle="Tool Designer" Department="Tool Design" GroupName="Research and Development" StartDate="1998-01-11T00:00:00.000"/>
+</EmpDepts>

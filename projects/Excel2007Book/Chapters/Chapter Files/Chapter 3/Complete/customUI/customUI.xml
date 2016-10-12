@@ -1,0 +1,27 @@
+<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui">
+   <ribbon startFromScratch="true">
+      <tabs>
+         <tab id="DataFunctions" label="XML Data Functions">
+            <group id="NewDataControls" label="New Data">
+               <button id="Button1" size="large" label="Get Emps Dept" onAction="ThisWorkbook.GetEmpDataBtn" />
+               <button id="Button2" size="large" label="Get HR Info" onAction="ThisWorkbook.GetHRDataBtn" />
+            </group>
+
+            <group id="AppendDataControls" label="Append Data">
+               <button id="Button3" size="large" label="Append Emps Dept" onAction="ThisWorkbook.AppendEmpDataBtn" />
+            </group>
+
+            <group id="RefreshDataControls" label="Refresh Data">
+               <button id="Button4" size="large" label="Refresh Emp Dept" onAction="ThisWorkbook.RefreshEmpDataBtn" />
+               <button id="Button5" size="large" label="Refresh HR Info" onAction="ThisWorkbook.RefreshHRDataBtn" />
+            </group>
+
+            <group id="SaveDataControls" label="Save Data">
+               <button id="Button6" size="large" label="Save Emp Dept" onAction="ThisWorkbook.SaveEmpBtn" />
+               <button id="Button7" size="large" label="Save Emp Dept As" onAction="ThisWorkbook.SaveEmpNewFileBtn" />
+            </group>
+
+         </tab>
+      </tabs>
+   </ribbon>
+</customUI> 
